@@ -70,6 +70,12 @@ p{
   margin-right: 30px;
 }
 
+.security {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
 .middle-container {}
 
 .bottom-container {
